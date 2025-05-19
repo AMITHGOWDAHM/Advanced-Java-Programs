@@ -1,1 +1,1 @@
-Output-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/4c-program/4c.jpeg
+Output-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Swing_Programming_4c/4c.jpeg
