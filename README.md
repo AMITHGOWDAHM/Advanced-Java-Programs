@@ -2,7 +2,7 @@
 
 1.a Develop a Java program for adding elements [Apple, Banana, Orange] into an ArrayList and a LinkedList to perform the following operations with different functions directed as follows
 
-Output for LinkedList_1a-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1a.LinkedList/Screenshot%202025-05-18%20103739.png
+   Output for LinkedList_1a-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1a.LinkedList/Screenshot%202025-05-18%20103739.png
 
 .....................................................................................................................................................................................................................
 
@@ -19,20 +19,27 @@ Output for LinkedList_1a-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/
   5.output for colorSubList-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20111319.png
 
   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+  
+1c. Linked List Programs
+
+  1.output for LinkeslistIterator-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112116.png 
+
+  2.output for ListElementPositions-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20111953.png 
+
+  3.output for ListOfferLast-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112209.png 
+
+  4.output for ListReverseIteration-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112259.png 
+
+  5.output for LinkedListSwapElement-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112357.png
+
+  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
   
+  
+  output for StringOperationDemoo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/2a.string_operations/Screenshot%202025-05-18%20113921.png
 
-output for LinkeslistIterator-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112116.png 
+  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
-output for ListElementPositions-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20111953.png 
-
-output for ListOfferLast-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112209.png 
-
-output for ListReverseIteration-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112259.png 
-
-output for LinkedListSwapElement-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112357.png
-
-output for StringOperationDemoo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/2a.string_operations/Screenshot%202025-05-18%20113921.png
 
 output for StringBufferVsStringBuilderPerformance-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/2b.StringBuffer_and_StringBuilder/Screenshot%202025-05-18%20115119.png
 
