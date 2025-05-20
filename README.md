@@ -5,15 +5,22 @@
 Output for LinkedList_1a-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1a.LinkedList/Screenshot%202025-05-18%20103739.png
 
 .....................................................................................................................................................................................................................
-output for ColorRemove-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20105005.png
 
-output for ColorSort-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20105238.png
+1b. Array List programs
 
-output for Searchcolor-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20105536.png
+  1.output for ColorRemove-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20105005.png
 
- output for colorRemoveByindex-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20110427.png
+  2.output for ColorSort-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20105238.png
 
-output for colorSubList-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20111319.png
+  3.output for Searchcolor-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20105536.png
+
+  4.output for colorRemoveByindex-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20110427.png
+
+  5.output for colorSubList-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20111319.png
+
+  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+  
 
 output for LinkeslistIterator-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112116.png 
 
