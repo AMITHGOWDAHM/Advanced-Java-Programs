@@ -1,45 +1,88 @@
-# Advanced-Java-Programs
-output for ColorRemove-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Array_List_1b/Screenshot%202025-05-18%20105005.png
-output for ColorSort-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Array_List_1b/Screenshot%202025-05-18%20105238.png
-output for Searchcolor-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Array_List_1b/Screenshot%202025-05-18%20105536.png
-output for colorRemoveByindex-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Array_List_1b/Screenshot%202025-05-18%20110427.png
-output for colorSubList-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Array_List_1b/Screenshot%202025-05-18%20111319.png
-Output for cookieManagemnet-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Cookie_Management_7b/7b.jpeg
-Output for JDBC_append_9c-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/JDBC_append_9c/9c.jpeg
-Output for JDBC_delete_9d-https:https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/JDBC_delete_9d/9d.jpeg
-Output for JDBC_project_8c-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/JDBC_project_8c/8c.jpeg
-Output for JDBC_project_8d-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/JDBC_project_8d/8d.jpeg
-Output for LinkedList_1a-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/LinkedList_1a/Screenshot%202025-05-18%20103739.png
-output for LinkeslistIterator-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Linked_List_1c/Screenshot%202025-05-18%20112116.png
-output for ListElementPositions-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Linked_List_1c/Screenshot%202025-05-18%20111953.png
-output for ListOfferLast-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Linked_List_1c/Screenshot%202025-05-18%20112209.png
-output for ListReverseIteration-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Linked_List_1c/Screenshot%202025-05-18%20112259.png
-output for LinkedListSwapElement-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Linked_List_1c/Screenshot%202025-05-18%20112357.png
-Output for sessionManagement-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Session_Management_7a/7a.jpeg
-output for StringBufferVsStringBuilderPerformance-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/StringBuffer_and_StringBuilder_2b/Screenshot%202025-05-18%20115119.png
-output for NullOrWhitespaceChech-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/String_Exercise_3b/Screenshot%202025-05-18%20120935.png
-output for SubStringCounter-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/String_Exercise_3b/Screenshot%202025-05-18%20121159.png
-output for ReverseStringDemo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/String_Exercise_3b/Screenshot%202025-05-18%20121313.png
-output for palindtomeChecker-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/String_Exercise_3b/Screenshot%202025-05-18%20121443.png
-output for WhiteSoaceRemover-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/String_Exercise_3b/Screenshot%202025-05-18%20121554.png
-Output for CapitalizeWords-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/String_Exercise_3c/Screenshot%202025-05-18%20123518.png
-Output for TruncateString-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/String_Exercise_3c/Screenshot%202025-05-18%20123742.png
-Output for NumericCheck-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/String_Exercise_3c/Screenshot%202025-05-18%20124003.png
-Output for RandomStringGenerator-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/String_Exercise_3c/Screenshot%202025-05-18%20124115.png
-Output for WordCounter-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/String_Exercise_3c/Screenshot%202025-05-18%20124227.png
-Output for HelloSwing-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Swing_Programming_4a/Screenshot%202025-05-18%20130727.png
-Output for CountryButtonDemo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Swing_Programming_4b/Screenshot%202025-05-18%20130828.png
-Output for Swing_Programming_4c-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Swing_Programming_4c/4c.jpeg
-Output for CountryListDemo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Swing_program_5a/Screenshot%202025-05-18%20133950.png
-Output for ColorTabbedPaneDemo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Swing_program_5b/Screenshot%202025-05-18%20134607.png
-Output for CountryCapitalList-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Swing_program_5c/Screenshot%202025-05-18%20134827.png
-output for ColorTabbedPane-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Swing_program_5d/Screenshot%202025-05-18%20135908.png
-Output for atabase_test_delete_9a-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/database_test_delete_9a/9a.png
-Output for database_test_insert_8a-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/database_test_insert_8a/8a.png
-Output for database_test_query_9b-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/database_test_query_9b/9b.png
-Output for database_test_update_8b-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/database_test_update_8b/8b.png
-Output for factorial-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/servlet_program_6a/Factorial.png
-Output for servlet_program_6b-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/servlet_program_6b/6b.jpeg
-Output for prime-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/servlet_program_6c/Prime1.png
-output for StringOperationDemo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/string_handling_3a/Screenshot%202025-05-18%20115911.png
-output for StringOperationDemoo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/string_operations_2a/Screenshot%202025-05-18%20113921.png
+#Advanced-java-program
+Output for LinkedList_1a-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1a.LinkedList/Screenshot%202025-05-18%20103739.png
+
+output for ColorRemove-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20105005.png
+
+output for ColorSort-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20105238.png
+
+output for Searchcolor-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20105536.png
+
+ output for colorRemoveByindex-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20110427.png
+
+output for colorSubList-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1b.Array_List/Screenshot%202025-05-18%20111319.png
+
+output for LinkeslistIterator-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112116.png 
+
+output for ListElementPositions-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20111953.png 
+
+output for ListOfferLast-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112209.png 
+
+output for ListReverseIteration-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112259.png 
+
+output for LinkedListSwapElement-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/1c.Linked_List/Screenshot%202025-05-18%20112357.png
+
+output for StringOperationDemoo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/2a.string_operations/Screenshot%202025-05-18%20113921.png
+
+output for StringBufferVsStringBuilderPerformance-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/2b.StringBuffer_and_StringBuilder/Screenshot%202025-05-18%20115119.png
+
+output for StringOperationDemo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3a.string_handling/Screenshot%202025-05-18%20115911.png
+
+output for NullOrWhitespaceChech-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3b.String_Exercise/Screenshot%202025-05-18%20120935.png
+
+output for SubStringCounter-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3b.String_Exercise/Screenshot%202025-05-18%20121159.png
+
+output for ReverseStringDemo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3b.String_Exercise/Screenshot%202025-05-18%20121313.png
+
+output for palindtomeChecker-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3b.String_Exercise/Screenshot%202025-05-18%20121443.png
+
+output for WhiteSoaceRemover-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3b.String_Exercise/Screenshot%202025-05-18%20121554.png
+
+Output for CapitalizeWords-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3c.String_Exercise/Screenshot%202025-05-18%20123518.png
+
+Output for TruncateString-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3c.String_Exercise/Screenshot%202025-05-18%20123742.png
+
+Output for NumericCheck-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3c.String_Exercise/Screenshot%202025-05-18%20124003.png
+
+Output for RandomStringGenerator-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3c.String_Exercise/Screenshot%202025-05-18%20124115.png
+
+Output for WordCounter-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/3c.String_Exercise/Screenshot%202025-05-18%20124227.png
+
+Output for HelloSwing-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/4a.Swing_Programming/Screenshot%202025-05-18%20130727.png
+
+Output for CountryButtonDemo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/4b.Swing_Programming/Screenshot%202025-05-18%20130828.png
+
+Output-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/4c.Swing_Programming/4c.jpeg
+
+Output for CountryListDemo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/5a.Swing_program/Screenshot%202025-05-18%20133950.png
+
+Output for ColorTabbedPaneDemo-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/5b.Swing_program/Screenshot%202025-05-18%20134607.png
+
+Output for CountryCapitalList-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/5c.Swing_program/Screenshot%202025-05-18%20134827.png
+
+output for ColorTabbedPane-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/5d.Swing_program/Screenshot%202025-05-18%20135908.png
+
+Output for factorial-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/6a.servlet_program/Factorial.png
+
+Output-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/6b.servlet_program/6b.jpeg
+
+Output for prime-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/6c.servlet_program/Prime1.png
+
+Output for sessionManagement-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/7a.Session_Management/7a.jpeg
+
+Output for cookieManagemnet-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/7b.Cookie_Management/7b.jpeg
+
+Output-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/8a.database_test_insert/8a.png
+
+Output-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/8b.database_test_update/8b.png
+
+Output-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/8c.JDBC_project/8c.jpeg
+
+Output-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/8d.JDBC_project/8d.jpeg
+
+Output-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/9a.database_test_delete/9a.png
+
+Output-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/9b.database_test_query/9b.png
+
+Output-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/9c.JDBC_append/9c.jpeg
+
+Output-https:https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/9d.JDBC_delete/9d.jpeg
