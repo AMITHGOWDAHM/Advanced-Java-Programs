@@ -1,1 +1,1 @@
-Output for sessionManagement-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/Session_Management_7a/7a.jpeg
+Output for sessionManagement-https://github.com/AMITHGOWDAHM/Advanced-Java-Programs/blob/main/7a.Session_Management/7a.jpeg
